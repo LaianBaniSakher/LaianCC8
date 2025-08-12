@@ -1,2 +1,5 @@
 pen-source digital forensics platform used to
 investigate digital media and analyze various forms of digital evidence
+
+Data sources are added to a case. 
+A case can have a single data source or it can have multiple data sources.
